@@ -1,4 +1,5 @@
 API sécurisée par Register/Login
+
 • Au premier accès, l’utilisateur doit se créer un compte (email, mdp) sur la route /register
 
 • Une fois le compte créé, l’utilisateur doit utiliser la route /login pour récupérer un token.
